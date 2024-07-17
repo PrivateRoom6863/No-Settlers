@@ -1,0 +1,10 @@
+[
+	{
+                "name": "Player Bonuses",
+	             	"cost": 0,
+                "uniques": ["Automatically built in all cities where it is buildable <for [AI player]>",
+                             "Only available <for [AI player]>",
+                             "Limited to [1] per Civilization",
+                             "Cannot build [Settler] units <[in all cities]> <every [99999] turns>"]
+  }
+]
