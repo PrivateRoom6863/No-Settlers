@@ -2,7 +2,7 @@
 	{
                 "name": "Cannot Train Settlers",
 	             	"cost": 0,
-                "uniques": ["Automatically built in all cities where it is buildable <for [AI player]>",
+                "uniques": ["Automatically built in all cities where it is buildable",
                              "Only available <for [AI player]>",
 			     "Destroyed when the city is captured",
                              "Limited to [1] per Civilization",
