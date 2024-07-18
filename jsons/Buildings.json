@@ -4,6 +4,7 @@
 	             	"cost": 0,
                 "uniques": ["Automatically built in all cities where it is buildable <for [AI player]>",
                              "Only available <for [AI player]>",
+			     "Destroyed when the city is captured",
                              "Limited to [1] per Civilization",
                              "Cannot build [Settler] units"]
   }
